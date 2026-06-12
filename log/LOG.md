@@ -7,3 +7,4 @@
 - 2026-06-09 | Training stages and post-training overview | `topics/00-training-stages.md`
 - 2026-06-09 | Fine-tuning vs reinforcement learning | `topics/01-fine-tuning-vs-rl.md`
 - 2026-06-09 | Data for fine-tuning and grading for RL | `topics/02-data-and-grading.md`
+- 2026-06-09 | Constitutional AI for safe and secure agents | `topics/03-constitutional-ai.md`
