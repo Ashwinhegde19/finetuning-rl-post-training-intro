@@ -15,6 +15,7 @@ topics/    consolidated revision notes by concept
 2. `topics/01-fine-tuning-vs-rl.md` — fine-tuning vs reinforcement learning
 3. `topics/02-data-and-grading.md` — SFT data and RL graders
 4. `topics/03-constitutional-ai.md` — constitutional AI, RLAIF, safety alignment
+5. `topics/04-frontier-model-post-training-pipelines.md` — how frontier labs combine SFT and RL iteratively
 
 ## Project focus
 
